@@ -6,11 +6,11 @@
 - 🌱 I’m currently learning **Deep Learning & NLP**
 
 - 📝 I regularly write articles on [@ranjitghadge555](@ranjitghadge555)
-- 📝 I regularly write articles on [https://medium.com/@ranjitghadge555](https://medium.com/@ranjitghadge555)
+- 📝 I regularly write articles on [https://medium.com/@rohitmeshram976](https://medium.com/@rohitmeshram976)
 
 - 💬 Ask me about **Machine Learning,Data Analysis,SQL,Python**
 
-- 📫 How to reach me **ranjitghadge555@gmail.com**
+- 📫 How to reach me **rohitmeshram976@gmail.com**
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
